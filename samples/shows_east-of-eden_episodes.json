@@ -1,0 +1,425 @@
+{
+  "id": "east-of-eden-episodes",
+  "title": "East of Eden",
+  "type": {
+    "value": "feed"
+  },
+  "extensions": {
+    "show": "East of Eden"
+  },
+  "entry": [
+    {
+      "id": "east-of-eden-s1e1",
+      "title": "Brothers",
+      "summary": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/6a6073d54163d59a154429d375ff45bfc717fd10-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "East of Eden",
+        "slug": "east-of-eden",
+        "season": "1",
+        "episode": "1",
+        "episode-name": "Brothers",
+        "episode-number": "S1:E1",
+        "runtime": "51m",
+        "formattedRuntime": "00:51",
+        "duration": 3060,
+        "meta": "S1:E1  ·  51m"
+      }
+    },
+    {
+      "id": "east-of-eden-s1e2",
+      "title": "Cathy",
+      "summary": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/6a6073d54163d59a154429d375ff45bfc717fd10-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "East of Eden",
+        "slug": "east-of-eden",
+        "season": "1",
+        "episode": "2",
+        "episode-name": "Cathy",
+        "episode-number": "S1:E2",
+        "runtime": "1h 1m",
+        "formattedRuntime": "01:01",
+        "duration": 3660,
+        "meta": "S1:E2  ·  1h 1m"
+      }
+    },
+    {
+      "id": "east-of-eden-s1e3",
+      "title": "In the Valley",
+      "summary": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/6a6073d54163d59a154429d375ff45bfc717fd10-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "East of Eden",
+        "slug": "east-of-eden",
+        "season": "1",
+        "episode": "3",
+        "episode-name": "In the Valley",
+        "episode-number": "S1:E3",
+        "runtime": "58m",
+        "formattedRuntime": "00:58",
+        "duration": 3480,
+        "meta": "S1:E3  ·  58m"
+      }
+    },
+    {
+      "id": "east-of-eden-s1e4",
+      "title": "Kate",
+      "summary": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/6a6073d54163d59a154429d375ff45bfc717fd10-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "East of Eden",
+        "slug": "east-of-eden",
+        "season": "1",
+        "episode": "4",
+        "episode-name": "Kate",
+        "episode-number": "S1:E4",
+        "runtime": "1h",
+        "formattedRuntime": "01:00",
+        "duration": 3600,
+        "meta": "S1:E4  ·  1h"
+      }
+    },
+    {
+      "id": "east-of-eden-s1e5",
+      "title": "Departure",
+      "summary": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/6a6073d54163d59a154429d375ff45bfc717fd10-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "East of Eden",
+        "slug": "east-of-eden",
+        "season": "1",
+        "episode": "5",
+        "episode-name": "Departure",
+        "episode-number": "S1:E5",
+        "runtime": "57m",
+        "formattedRuntime": "00:57",
+        "duration": 3420,
+        "meta": "S1:E5  ·  57m"
+      }
+    },
+    {
+      "id": "east-of-eden-s1e6",
+      "title": "The Great Try",
+      "summary": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/6a6073d54163d59a154429d375ff45bfc717fd10-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "East of Eden",
+        "slug": "east-of-eden",
+        "season": "1",
+        "episode": "6",
+        "episode-name": "The Great Try",
+        "episode-number": "S1:E6",
+        "runtime": "59m",
+        "formattedRuntime": "00:59",
+        "duration": 3540,
+        "meta": "S1:E6  ·  59m"
+      }
+    },
+    {
+      "id": "east-of-eden-s1e7",
+      "title": "Timshel",
+      "summary": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/6a6073d54163d59a154429d375ff45bfc717fd10-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "East of Eden",
+        "slug": "east-of-eden",
+        "season": "1",
+        "episode": "7",
+        "episode-name": "Timshel",
+        "episode-number": "S1:E7",
+        "runtime": "1h 8m",
+        "formattedRuntime": "01:08",
+        "duration": 4080,
+        "meta": "S1:E7  ·  1h 8m"
+      }
+    }
+  ]
+}

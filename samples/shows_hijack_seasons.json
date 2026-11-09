@@ -1,0 +1,129 @@
+{
+  "id": "hijack-seasons",
+  "title": "Hijack",
+  "type": {
+    "value": "feed"
+  },
+  "extensions": {
+    "show": "Hijack",
+    "seasons": "2"
+  },
+  "entry": [
+    {
+      "id": "hijack-s1",
+      "title": "Season 1",
+      "summary": "7 episodes",
+      "type": {
+        "value": "feed"
+      },
+      "link": {
+        "href": "https://base-feeds.vercel.app/feeds/shows/hijack/seasons/1",
+        "type": "feed"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Hijack",
+        "slug": "hijack",
+        "season": "1",
+        "episodes": "7",
+        "meta": "7 Episodes"
+      }
+    },
+    {
+      "id": "hijack-s2",
+      "title": "Season 2",
+      "summary": "8 episodes",
+      "type": {
+        "value": "feed"
+      },
+      "link": {
+        "href": "https://base-feeds.vercel.app/feeds/shows/hijack/seasons/2",
+        "type": "feed"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Hijack",
+        "slug": "hijack",
+        "season": "2",
+        "episodes": "8",
+        "meta": "8 Episodes"
+      }
+    }
+  ]
+}

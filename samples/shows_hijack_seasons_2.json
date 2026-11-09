@@ -1,0 +1,485 @@
+{
+  "id": "hijack-s2",
+  "title": "Season 2",
+  "type": {
+    "value": "feed"
+  },
+  "extensions": {
+    "show": "Hijack",
+    "season": "2"
+  },
+  "entry": [
+    {
+      "id": "hijack-s2e1",
+      "title": "Signal",
+      "summary": "Two years after Flight KA29's hijacking, Sam Nelson is thrust into another life-threatening ordeal—but this time it's personal.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Hijack",
+        "slug": "hijack",
+        "season": "2",
+        "episode": "1",
+        "episode-name": "Signal",
+        "episode-number": "S2:E1",
+        "runtime": "43m",
+        "formattedRuntime": "00:43",
+        "duration": 2580,
+        "meta": "S2:E1  ·  43m"
+      }
+    },
+    {
+      "id": "hijack-s2e2",
+      "title": "Control",
+      "summary": "Sam urges Otto to keep his cool as passengers begin to suspect something is wrong. Police Chief Winter races to mount a response.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Hijack",
+        "slug": "hijack",
+        "season": "2",
+        "episode": "2",
+        "episode-name": "Control",
+        "episode-number": "S2:E2",
+        "runtime": "46m",
+        "formattedRuntime": "00:46",
+        "duration": 2760,
+        "meta": "S2:E2  ·  46m"
+      }
+    },
+    {
+      "id": "hijack-s2e3",
+      "title": "Baggage",
+      "summary": "Berlin police scramble to contain the situation. Sam pressures Winter to meet his demands. Marsha discovers she's being watched.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Hijack",
+        "slug": "hijack",
+        "season": "2",
+        "episode": "3",
+        "episode-name": "Baggage",
+        "episode-number": "S2:E3",
+        "runtime": "55m",
+        "formattedRuntime": "00:55",
+        "duration": 3300,
+        "meta": "S2:E3  ·  55m"
+      }
+    },
+    {
+      "id": "hijack-s2e4",
+      "title": "Switch",
+      "summary": "A shocking turn of events forces Sam to make a gesture of good faith.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Hijack",
+        "slug": "hijack",
+        "season": "2",
+        "episode": "4",
+        "episode-name": "Switch",
+        "episode-number": "S2:E4",
+        "runtime": "45m",
+        "formattedRuntime": "00:45",
+        "duration": 2700,
+        "meta": "S2:E4  ·  45m"
+      }
+    },
+    {
+      "id": "hijack-s2e5",
+      "title": "Outage",
+      "summary": "Anger and frustration among the passengers begin to boil over—just as Sam comes to a frightening realization.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Hijack",
+        "slug": "hijack",
+        "season": "2",
+        "episode": "5",
+        "episode-name": "Outage",
+        "episode-number": "S2:E5",
+        "runtime": "40m",
+        "formattedRuntime": "00:40",
+        "duration": 2400,
+        "meta": "S2:E5  ·  40m"
+      }
+    },
+    {
+      "id": "hijack-s2e6",
+      "title": "Junction",
+      "summary": "To avoid further disaster, Sam must work with an unlikely ally.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Hijack",
+        "slug": "hijack",
+        "season": "2",
+        "episode": "6",
+        "episode-name": "Junction",
+        "episode-number": "S2:E6",
+        "runtime": "44m",
+        "formattedRuntime": "00:44",
+        "duration": 2640,
+        "meta": "S2:E6  ·  44m"
+      }
+    },
+    {
+      "id": "hijack-s2e7",
+      "title": "Contact",
+      "summary": "Sam gambles on a dangerous tactic in hopes of outsmarting the police.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Hijack",
+        "slug": "hijack",
+        "season": "2",
+        "episode": "7",
+        "episode-name": "Contact",
+        "episode-number": "S2:E7",
+        "runtime": "44m",
+        "formattedRuntime": "00:44",
+        "duration": 2640,
+        "meta": "S2:E7  ·  44m"
+      }
+    },
+    {
+      "id": "hijack-s2e8",
+      "title": "Terminal",
+      "summary": "With the handover imminent, Sam is prepared to put his life on the line to save Marsha—and expose the truth.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Hijack",
+        "slug": "hijack",
+        "season": "2",
+        "episode": "8",
+        "episode-name": "Terminal",
+        "episode-number": "S2:E8",
+        "runtime": "50m",
+        "formattedRuntime": "00:50",
+        "duration": 3000,
+        "meta": "S2:E8  ·  50m"
+      }
+    }
+  ]
+}

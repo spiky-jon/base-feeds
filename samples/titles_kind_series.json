@@ -1,0 +1,484 @@
+{
+  "id": "titles-series",
+  "title": "TV Shows",
+  "type": {
+    "value": "feed"
+  },
+  "extensions": {},
+  "entry": [
+    {
+      "id": "east-of-eden",
+      "title": "East of Eden",
+      "summary": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/6a6073d54163d59a154429d375ff45bfc717fd10-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/6a6073d54163d59a154429d375ff45bfc717fd10-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "east-of-eden",
+        "contentType": "TV Show",
+        "cta": "New",
+        "tag": "TV Show",
+        "genre": "Drama",
+        "genres": "Drama",
+        "year": "2026",
+        "rating": "15",
+        "imdb": "",
+        "features": "",
+        "meta": "Drama  ·  2026  ·  1 Season",
+        "runtime": "1 Season",
+        "formattedRuntime": "",
+        "seasons": "1",
+        "episodes": "7",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/east-of-eden/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/east-of-eden/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/east-of-eden/related"
+      }
+    },
+    {
+      "id": "hijack",
+      "title": "Hijack",
+      "summary": "Expert negotiator Sam Nelson is in for the ride of his life - and so is everyone on board with him - after a group of hijackers take control.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "hijack",
+        "contentType": "TV Show",
+        "cta": "",
+        "tag": "TV Show",
+        "genre": "Drama",
+        "genres": "Drama",
+        "year": "2023",
+        "rating": "15",
+        "imdb": "7.8",
+        "features": "4k,cc,ad",
+        "meta": "Drama  ·  2023  ·  2 Seasons",
+        "runtime": "2 Seasons",
+        "formattedRuntime": "",
+        "seasons": "2",
+        "episodes": "15",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/hijack/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/hijack/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/hijack/related"
+      }
+    },
+    {
+      "id": "lioness",
+      "title": "Lioness",
+      "summary": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/4e9cc04989645801b0607090fbf438e30ead819a-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/09ae12432d7cb33ecf89e4d8ccbd3ab7a5183b9e-4318x1037.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8e0f2f7e704c27f747ce293be48ff6b55347ec45-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/3f0979cba1b60ac5cfd4c42697e1f18d4a2399a9-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/4e9cc04989645801b0607090fbf438e30ead819a-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8e0f2f7e704c27f747ce293be48ff6b55347ec45-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/3f0979cba1b60ac5cfd4c42697e1f18d4a2399a9-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/09ae12432d7cb33ecf89e4d8ccbd3ab7a5183b9e-4318x1037.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "lioness",
+        "contentType": "TV Show",
+        "cta": "",
+        "tag": "TV Show",
+        "genre": "Drama",
+        "genres": "Drama, War",
+        "year": "2023",
+        "rating": "15",
+        "imdb": "",
+        "features": "",
+        "meta": "Drama  ·  2023  ·  3 Seasons",
+        "runtime": "3 Seasons",
+        "formattedRuntime": "",
+        "seasons": "3",
+        "episodes": "24",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/lioness/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/lioness/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/lioness/related"
+      }
+    },
+    {
+      "id": "monster",
+      "title": "Monster: The Lizzie Borden Story",
+      "summary": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "type": {
+        "value": "tv-show"
+      },
+      "content": {
+        "src": "https://cdn.sanity.io/files/9fphvkc2/production/7ca174e3d3d7ca438d96586824a749e65d60eafe.mp4",
+        "type": "video/mp4"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9b4d4921f1922d709c72ab8391fcdb415e3e0ed6-2560x1440.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dce340e123538b2cafdfc4bbda5d7c8dda928d69-103x24.svg?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/f4c1d5c61c58e9a23f74cac1fbc3bee3b149fbbe-1482x2222.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0fb8a1618341df2172a017e7622beb03d0fe3189-1920x1080.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9b4d4921f1922d709c72ab8391fcdb415e3e0ed6-2560x1440.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/f4c1d5c61c58e9a23f74cac1fbc3bee3b149fbbe-1482x2222.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0fb8a1618341df2172a017e7622beb03d0fe3189-1920x1080.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dce340e123538b2cafdfc4bbda5d7c8dda928d69-103x24.svg?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "monster",
+        "contentType": "TV Show",
+        "cta": "Just Added",
+        "tag": "TV Show",
+        "genre": "Horror",
+        "genres": "Horror",
+        "year": "2026",
+        "rating": "18",
+        "imdb": "7.2",
+        "features": "4k,cc,ad",
+        "meta": "Horror  ·  2026  ·  2 Seasons",
+        "runtime": "2 Seasons",
+        "formattedRuntime": "",
+        "seasons": "2",
+        "episodes": "16",
+        "preview_playback": "https://cdn.sanity.io/files/9fphvkc2/production/7d7e9d21816f10748bea53d668fdb83441f9105e.mp4",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/monster/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/monster/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/monster/related"
+      }
+    },
+    {
+      "id": "reacher",
+      "title": "Reacher",
+      "summary": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/74dacfd009501de8fc6f0f93a817b78318150105-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/2786d696846097292d5469aad941671e326a78e7-3973x1281.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/4b09337467f48774c94d174558888e5172a125ad-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dd05caebc08db1df829126f089cc70d0ff7b1432-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/74dacfd009501de8fc6f0f93a817b78318150105-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/4b09337467f48774c94d174558888e5172a125ad-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dd05caebc08db1df829126f089cc70d0ff7b1432-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/2786d696846097292d5469aad941671e326a78e7-3973x1281.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "reacher",
+        "contentType": "TV Show",
+        "cta": "",
+        "tag": "TV Show",
+        "genre": "Action",
+        "genres": "Action, Crime",
+        "year": "2022",
+        "rating": "15",
+        "imdb": "",
+        "features": "",
+        "meta": "Action  ·  2022  ·  4 Seasons",
+        "runtime": "4 Seasons",
+        "formattedRuntime": "",
+        "seasons": "4",
+        "episodes": "32",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/reacher/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/reacher/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/reacher/related"
+      }
+    },
+    {
+      "id": "stranger-things",
+      "title": "Stranger Things",
+      "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "stranger-things",
+        "contentType": "TV Show",
+        "cta": "",
+        "tag": "TV Show",
+        "genre": "Sci-Fi",
+        "genres": "Sci-Fi, Mystery, Action",
+        "year": "2016",
+        "rating": "15",
+        "imdb": "",
+        "features": "",
+        "meta": "Sci-Fi  ·  2016  ·  5 Seasons",
+        "runtime": "5 Seasons",
+        "formattedRuntime": "",
+        "seasons": "5",
+        "episodes": "42",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/stranger-things/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/stranger-things/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/stranger-things/related"
+      }
+    },
+    {
+      "id": "war",
+      "title": "WAR",
+      "summary": "An anthology series set in the elite world of London law following two rival firms as they face off in a different headline-making legal battle each season.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/628aa55f5926bf50e11bcc00b54edd91c18eaf6d-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/d63f23b7837bfee8870a597fed48771f5b4edf62-4299x989.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ee30a52aeff319f4bab2e22f5ee1c1311a0a90ed-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/406c9346acba8ed714f4ad862b2c440fe09a8f3d-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/628aa55f5926bf50e11bcc00b54edd91c18eaf6d-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ee30a52aeff319f4bab2e22f5ee1c1311a0a90ed-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/406c9346acba8ed714f4ad862b2c440fe09a8f3d-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/d63f23b7837bfee8870a597fed48771f5b4edf62-4299x989.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "war",
+        "contentType": "TV Show",
+        "cta": "New",
+        "tag": "TV Show",
+        "genre": "Drama",
+        "genres": "Drama",
+        "year": "2026",
+        "rating": "15",
+        "imdb": "",
+        "features": "",
+        "meta": "Drama  ·  2026  ·  1 Season",
+        "runtime": "1 Season",
+        "formattedRuntime": "",
+        "seasons": "1",
+        "episodes": "8",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/war/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/war/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/war/related"
+      }
+    }
+  ]
+}

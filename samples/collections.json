@@ -1,0 +1,74 @@
+{
+  "id": "collections",
+  "title": "Collections",
+  "type": {
+    "value": "feed"
+  },
+  "extensions": {},
+  "entry": [
+    {
+      "id": "image-hero",
+      "title": "Image hero",
+      "type": {
+        "value": "feed"
+      },
+      "link": {
+        "href": "https://base-feeds.vercel.app/feeds/collections/image-hero",
+        "type": "feed"
+      },
+      "extensions": {
+        "layout": "imageHero",
+        "opensAs": "",
+        "count": "4"
+      }
+    },
+    {
+      "id": "video-hero",
+      "title": "Video hero",
+      "type": {
+        "value": "feed"
+      },
+      "link": {
+        "href": "https://base-feeds.vercel.app/feeds/collections/video-hero",
+        "type": "feed"
+      },
+      "extensions": {
+        "layout": "videoHero",
+        "opensAs": "",
+        "count": "4"
+      }
+    },
+    {
+      "id": "most-popular",
+      "title": "Most Popular",
+      "type": {
+        "value": "feed"
+      },
+      "link": {
+        "href": "https://base-feeds.vercel.app/feeds/collections/most-popular",
+        "type": "feed"
+      },
+      "extensions": {
+        "layout": "rail",
+        "opensAs": "sheet",
+        "count": "8"
+      }
+    },
+    {
+      "id": "rail",
+      "title": "Rail",
+      "type": {
+        "value": "feed"
+      },
+      "link": {
+        "href": "https://base-feeds.vercel.app/feeds/collections/rail",
+        "type": "feed"
+      },
+      "extensions": {
+        "layout": "rail",
+        "opensAs": "detail",
+        "count": "16"
+      }
+    }
+  ]
+}

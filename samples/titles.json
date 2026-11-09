@@ -1,0 +1,1129 @@
+{
+  "id": "titles",
+  "title": "All titles",
+  "type": {
+    "value": "feed"
+  },
+  "extensions": {},
+  "entry": [
+    {
+      "id": "coco",
+      "title": "Coco",
+      "summary": "Despite his family's baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/1db9c2128a1a72a47dd03adf9c6d36f53e6cb99b-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/e4cdcaf22938c4b28e0fa4521ce7cd829c5c7fd9-1330x583.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/480c49d31a35c2bfeb7c011cfea6edae9d301ac8-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/3ff98e79d691f2fe0fbae8a74258b1d507ec4880-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/1db9c2128a1a72a47dd03adf9c6d36f53e6cb99b-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/480c49d31a35c2bfeb7c011cfea6edae9d301ac8-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/3ff98e79d691f2fe0fbae8a74258b1d507ec4880-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/e4cdcaf22938c4b28e0fa4521ce7cd829c5c7fd9-1330x583.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "coco",
+        "contentType": "Movie",
+        "cta": "",
+        "tag": "Movie",
+        "genre": "Animation",
+        "genres": "Animation, Family, Music",
+        "year": "2017",
+        "rating": "PG",
+        "imdb": "",
+        "features": "",
+        "meta": "Animation  ·  2017  ·  1h 45m",
+        "runtime": "1h 45m",
+        "formattedRuntime": "01:45",
+        "duration": 6300,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/coco/related"
+      }
+    },
+    {
+      "id": "digger",
+      "title": "Digger",
+      "summary": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/99c379eb928e2b3d452bb8d164a1d935a70c75b2-3237x1821.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/629c817e71459eeff9117a9f2d469df8e89c2e68-815x188.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/b5f2b9c537116feca1960992ecd3e3d9a622475d-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/647e834a8f957afbec38bf164d1a88027d49fcaf-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/99c379eb928e2b3d452bb8d164a1d935a70c75b2-3237x1821.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/b5f2b9c537116feca1960992ecd3e3d9a622475d-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/647e834a8f957afbec38bf164d1a88027d49fcaf-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/629c817e71459eeff9117a9f2d469df8e89c2e68-815x188.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "digger",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Comedy",
+        "genres": "Comedy, Drama",
+        "year": "2026",
+        "rating": "12A",
+        "imdb": "7",
+        "features": "4k,cc,ad",
+        "meta": "Comedy  ·  2026  ·  2h 9m",
+        "runtime": "2h 9m",
+        "formattedRuntime": "02:09",
+        "duration": 7740,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/digger/related"
+      }
+    },
+    {
+      "id": "east-of-eden",
+      "title": "East of Eden",
+      "summary": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/6a6073d54163d59a154429d375ff45bfc717fd10-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/6a6073d54163d59a154429d375ff45bfc717fd10-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7afd167f23461efed433154f2b01e102c21f49b4-1482x2222.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7fb987c6728772952f8f8c530e7d8c494ed5dbec-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/828349c343dcc02e1caef7fe52e44e559975968f-1586x513.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "east-of-eden",
+        "contentType": "TV Show",
+        "cta": "New",
+        "tag": "TV Show",
+        "genre": "Drama",
+        "genres": "Drama",
+        "year": "2026",
+        "rating": "15",
+        "imdb": "",
+        "features": "",
+        "meta": "Drama  ·  2026  ·  1 Season",
+        "runtime": "1 Season",
+        "formattedRuntime": "",
+        "seasons": "1",
+        "episodes": "7",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/east-of-eden/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/east-of-eden/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/east-of-eden/related"
+      }
+    },
+    {
+      "id": "hijack",
+      "title": "Hijack",
+      "summary": "Expert negotiator Sam Nelson is in for the ride of his life - and so is everyone on board with him - after a group of hijackers take control.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "hijack",
+        "contentType": "TV Show",
+        "cta": "",
+        "tag": "TV Show",
+        "genre": "Drama",
+        "genres": "Drama",
+        "year": "2023",
+        "rating": "15",
+        "imdb": "7.8",
+        "features": "4k,cc,ad",
+        "meta": "Drama  ·  2023  ·  2 Seasons",
+        "runtime": "2 Seasons",
+        "formattedRuntime": "",
+        "seasons": "2",
+        "episodes": "15",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/hijack/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/hijack/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/hijack/related"
+      }
+    },
+    {
+      "id": "hoppers",
+      "title": "Hoppers",
+      "summary": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/54136ddb6acf6c8acd6c56a3c2ddbfa43c578541-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7f5104f60853eba59ece06385c58a10c26a90dd0-4316x778.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/de36d9d2b86f93961c0edf55949bc9c24c4f031d-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0c5189bb399ba82b8a282adf0dbe8546dd7cbb49-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/54136ddb6acf6c8acd6c56a3c2ddbfa43c578541-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/de36d9d2b86f93961c0edf55949bc9c24c4f031d-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0c5189bb399ba82b8a282adf0dbe8546dd7cbb49-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7f5104f60853eba59ece06385c58a10c26a90dd0-4316x778.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "hoppers",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Animation",
+        "genres": "Animation, Comedy, Family",
+        "year": "2026",
+        "rating": "U",
+        "imdb": "",
+        "features": "",
+        "meta": "Animation  ·  2026  ·  1h 44m",
+        "runtime": "1h 44m",
+        "formattedRuntime": "01:44",
+        "duration": 6240,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/hoppers/related"
+      }
+    },
+    {
+      "id": "idiots",
+      "title": "Idiots",
+      "summary": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
+      "type": {
+        "value": "movie"
+      },
+      "content": {
+        "src": "https://cdn.sanity.io/files/9fphvkc2/production/de0ef1eaf80c86f66148fb5f623c15bf3a88a7dc.mp4",
+        "type": "video/mp4"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/5f6d9fa941769bb59264ec78bbca9bcba7cebafa-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/4d2be6e3160db4d6a5fac5117bbc9c824552767d-2693x1241.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/1aeb7e32fa41081caaef08c8fe1091ea42fdede7-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/d11556dd2e421ac4e620078c9e3337e1c7a0eef8-2560x1440.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/5f6d9fa941769bb59264ec78bbca9bcba7cebafa-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/1aeb7e32fa41081caaef08c8fe1091ea42fdede7-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/d11556dd2e421ac4e620078c9e3337e1c7a0eef8-2560x1440.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/4d2be6e3160db4d6a5fac5117bbc9c824552767d-2693x1241.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "idiots",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Comedy",
+        "genres": "Comedy, Crime",
+        "year": "2026",
+        "rating": "18",
+        "imdb": "6.4",
+        "features": "4k",
+        "meta": "Comedy  ·  2026  ·  1h 40m",
+        "runtime": "1h 40m",
+        "formattedRuntime": "01:40",
+        "duration": 6000,
+        "preview_playback": "https://cdn.sanity.io/files/9fphvkc2/production/de0ef1eaf80c86f66148fb5f623c15bf3a88a7dc.mp4",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/idiots/related"
+      }
+    },
+    {
+      "id": "lioness",
+      "title": "Lioness",
+      "summary": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/4e9cc04989645801b0607090fbf438e30ead819a-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/09ae12432d7cb33ecf89e4d8ccbd3ab7a5183b9e-4318x1037.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8e0f2f7e704c27f747ce293be48ff6b55347ec45-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/3f0979cba1b60ac5cfd4c42697e1f18d4a2399a9-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/4e9cc04989645801b0607090fbf438e30ead819a-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8e0f2f7e704c27f747ce293be48ff6b55347ec45-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/3f0979cba1b60ac5cfd4c42697e1f18d4a2399a9-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/09ae12432d7cb33ecf89e4d8ccbd3ab7a5183b9e-4318x1037.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "lioness",
+        "contentType": "TV Show",
+        "cta": "",
+        "tag": "TV Show",
+        "genre": "Drama",
+        "genres": "Drama, War",
+        "year": "2023",
+        "rating": "15",
+        "imdb": "",
+        "features": "",
+        "meta": "Drama  ·  2023  ·  3 Seasons",
+        "runtime": "3 Seasons",
+        "formattedRuntime": "",
+        "seasons": "3",
+        "episodes": "24",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/lioness/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/lioness/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/lioness/related"
+      }
+    },
+    {
+      "id": "monster",
+      "title": "Monster: The Lizzie Borden Story",
+      "summary": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "type": {
+        "value": "tv-show"
+      },
+      "content": {
+        "src": "https://cdn.sanity.io/files/9fphvkc2/production/7ca174e3d3d7ca438d96586824a749e65d60eafe.mp4",
+        "type": "video/mp4"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9b4d4921f1922d709c72ab8391fcdb415e3e0ed6-2560x1440.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dce340e123538b2cafdfc4bbda5d7c8dda928d69-103x24.svg?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/f4c1d5c61c58e9a23f74cac1fbc3bee3b149fbbe-1482x2222.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0fb8a1618341df2172a017e7622beb03d0fe3189-1920x1080.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9b4d4921f1922d709c72ab8391fcdb415e3e0ed6-2560x1440.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/f4c1d5c61c58e9a23f74cac1fbc3bee3b149fbbe-1482x2222.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0fb8a1618341df2172a017e7622beb03d0fe3189-1920x1080.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dce340e123538b2cafdfc4bbda5d7c8dda928d69-103x24.svg?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "monster",
+        "contentType": "TV Show",
+        "cta": "Just Added",
+        "tag": "TV Show",
+        "genre": "Horror",
+        "genres": "Horror",
+        "year": "2026",
+        "rating": "18",
+        "imdb": "7.2",
+        "features": "4k,cc,ad",
+        "meta": "Horror  ·  2026  ·  2 Seasons",
+        "runtime": "2 Seasons",
+        "formattedRuntime": "",
+        "seasons": "2",
+        "episodes": "16",
+        "preview_playback": "https://cdn.sanity.io/files/9fphvkc2/production/7d7e9d21816f10748bea53d668fdb83441f9105e.mp4",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/monster/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/monster/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/monster/related"
+      }
+    },
+    {
+      "id": "pinocchio-unstrung",
+      "title": "Pinocchio: Unstrung",
+      "summary": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7db66714a00fd502a57a26ba74aedffbc4218689-1664x936.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/b48ea46491bf457f8c193b78b545d9367ce3a0c0-2699x1300.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/2590dcee0374d0e796b7b58104c9f8ba2cbb17ce-1289x1844.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0cda8c39e83919cdb3daa72c6492df5de8000571-1430x804.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/7db66714a00fd502a57a26ba74aedffbc4218689-1664x936.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/2590dcee0374d0e796b7b58104c9f8ba2cbb17ce-1289x1844.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0cda8c39e83919cdb3daa72c6492df5de8000571-1430x804.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/b48ea46491bf457f8c193b78b545d9367ce3a0c0-2699x1300.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "pinocchio-unstrung",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Horror",
+        "genres": "Horror, Fantasy, Mystery",
+        "year": "2026",
+        "rating": "18",
+        "imdb": "",
+        "features": "",
+        "meta": "Horror  ·  2026  ·  1h 22m",
+        "runtime": "1h 22m",
+        "formattedRuntime": "01:22",
+        "duration": 4920,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/pinocchio-unstrung/related"
+      }
+    },
+    {
+      "id": "project-hail-mary",
+      "title": "Project Hail Mary",
+      "summary": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/c87b6ffaef5c897ac73e5806a88bab40b0e1a519-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/76a5958fa5d89a4736c0bdaad0375007ff43d6ee-1592x694.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/71c744509addc398a8c73b5a8a3cb14c45b5f582-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/59e8f1c95a98c415326b0f560ee1c8cb6c0059d9-3000x1688.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/c87b6ffaef5c897ac73e5806a88bab40b0e1a519-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/71c744509addc398a8c73b5a8a3cb14c45b5f582-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/59e8f1c95a98c415326b0f560ee1c8cb6c0059d9-3000x1688.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/76a5958fa5d89a4736c0bdaad0375007ff43d6ee-1592x694.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "project-hail-mary",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Sci-fi",
+        "genres": "Sci-fi, Adventure",
+        "year": "2026",
+        "rating": "12",
+        "imdb": "7.4",
+        "features": "4k,cc",
+        "meta": "Sci-fi  ·  2026  ·  2h 37m",
+        "runtime": "2h 37m",
+        "formattedRuntime": "02:37",
+        "duration": 9420,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/project-hail-mary/related"
+      }
+    },
+    {
+      "id": "reacher",
+      "title": "Reacher",
+      "summary": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/74dacfd009501de8fc6f0f93a817b78318150105-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/2786d696846097292d5469aad941671e326a78e7-3973x1281.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/4b09337467f48774c94d174558888e5172a125ad-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dd05caebc08db1df829126f089cc70d0ff7b1432-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/74dacfd009501de8fc6f0f93a817b78318150105-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/4b09337467f48774c94d174558888e5172a125ad-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dd05caebc08db1df829126f089cc70d0ff7b1432-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/2786d696846097292d5469aad941671e326a78e7-3973x1281.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "reacher",
+        "contentType": "TV Show",
+        "cta": "",
+        "tag": "TV Show",
+        "genre": "Action",
+        "genres": "Action, Crime",
+        "year": "2022",
+        "rating": "15",
+        "imdb": "",
+        "features": "",
+        "meta": "Action  ·  2022  ·  4 Seasons",
+        "runtime": "4 Seasons",
+        "formattedRuntime": "",
+        "seasons": "4",
+        "episodes": "32",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/reacher/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/reacher/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/reacher/related"
+      }
+    },
+    {
+      "id": "resident-evil",
+      "title": "Resident Evil",
+      "summary": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12eb2eb8175fdda82a36af5e2958db129f7cd4a4-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0b9b73e1f265114ab4c54adfa4e99aa04a676f2c-6532x1697.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/552eb340f46a398ef0e74b12aa903d525f4a363d-1400x2100.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/5eaee4336a63fdc2e788b937920d27d5c29fd76e-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12eb2eb8175fdda82a36af5e2958db129f7cd4a4-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/552eb340f46a398ef0e74b12aa903d525f4a363d-1400x2100.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/5eaee4336a63fdc2e788b937920d27d5c29fd76e-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0b9b73e1f265114ab4c54adfa4e99aa04a676f2c-6532x1697.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "resident-evil",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Horror",
+        "genres": "Horror, Sci-Fi, Adventure",
+        "year": "2026",
+        "rating": "15",
+        "imdb": "",
+        "features": "",
+        "meta": "Horror  ·  2026  ·  1h 35m",
+        "runtime": "1h 35m",
+        "formattedRuntime": "01:35",
+        "duration": 5700,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/resident-evil/related"
+      }
+    },
+    {
+      "id": "stranger-things",
+      "title": "Stranger Things",
+      "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "stranger-things",
+        "contentType": "TV Show",
+        "cta": "",
+        "tag": "TV Show",
+        "genre": "Sci-Fi",
+        "genres": "Sci-Fi, Mystery, Action",
+        "year": "2016",
+        "rating": "15",
+        "imdb": "",
+        "features": "",
+        "meta": "Sci-Fi  ·  2016  ·  5 Seasons",
+        "runtime": "5 Seasons",
+        "formattedRuntime": "",
+        "seasons": "5",
+        "episodes": "42",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/stranger-things/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/stranger-things/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/stranger-things/related"
+      }
+    },
+    {
+      "id": "end-of-oak-street",
+      "title": "The End of Oak Street",
+      "summary": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/3222874a655e5562bac0815a455140e2c6dfe949-4320x3240.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9f0ce2a98492d9baf6151d7aeba3ca634f33e420-1161x854.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/b2cfe6b7b6bac745db800c81075c48b1d30bb143-1000x1500.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0790cd0ef933bdcd46a46bb4e2510d37aa2b69a8-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/3222874a655e5562bac0815a455140e2c6dfe949-4320x3240.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/b2cfe6b7b6bac745db800c81075c48b1d30bb143-1000x1500.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0790cd0ef933bdcd46a46bb4e2510d37aa2b69a8-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9f0ce2a98492d9baf6151d7aeba3ca634f33e420-1161x854.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "end-of-oak-street",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Sci-Fi",
+        "genres": "Sci-Fi, Thriller",
+        "year": "2026",
+        "rating": "PG",
+        "imdb": "6.8",
+        "features": "4k,cc,ad",
+        "meta": "Sci-Fi  ·  2026  ·  1h 40m",
+        "runtime": "1h 40m",
+        "formattedRuntime": "01:40",
+        "duration": 6000,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/end-of-oak-street/related"
+      }
+    },
+    {
+      "id": "the-wild-robot",
+      "title": "The Wild Robot",
+      "summary": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ac9a081e14d521f23c6e9ff5c083382da1234427-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/74be3e4f4f1e70171f42a685e894eeff7650ddba-1856x1180.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/99c49810710e1440db6b0e5eaf18c4b13f20c605-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8da299e725d6acb9b4baa16e68af12ddc425ad98-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ac9a081e14d521f23c6e9ff5c083382da1234427-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/99c49810710e1440db6b0e5eaf18c4b13f20c605-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8da299e725d6acb9b4baa16e68af12ddc425ad98-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/74be3e4f4f1e70171f42a685e894eeff7650ddba-1856x1180.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "the-wild-robot",
+        "contentType": "Movie",
+        "cta": "",
+        "tag": "Movie",
+        "genre": "Animation",
+        "genres": "Animation, Family, Sci-Fi",
+        "year": "2024",
+        "rating": "U",
+        "imdb": "",
+        "features": "",
+        "meta": "Animation  ·  2024  ·  1h 42m",
+        "runtime": "1h 42m",
+        "formattedRuntime": "01:42",
+        "duration": 6120,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/the-wild-robot/related"
+      }
+    },
+    {
+      "id": "toy-story-5",
+      "title": "Toy Story 5",
+      "summary": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang face an all-new threat to playtime.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbb5f317036a42860b954cb435cc66da127e6f7e-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/a1acbcde1c152c5f2ad36b75c936d5278a4de2bc-1040x561.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ae196846534132a41867181da4f00ed23caf13d7-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/54ee51dbe6e5a41a8462c7bf0cff622097aa3a7d-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbb5f317036a42860b954cb435cc66da127e6f7e-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ae196846534132a41867181da4f00ed23caf13d7-2000x3000.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/54ee51dbe6e5a41a8462c7bf0cff622097aa3a7d-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/a1acbcde1c152c5f2ad36b75c936d5278a4de2bc-1040x561.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "toy-story-5",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Animation",
+        "genres": "Animation, Family, Comedy",
+        "year": "2026",
+        "rating": "PG",
+        "imdb": "",
+        "features": "",
+        "meta": "Animation  ·  2026  ·  1h 42m",
+        "runtime": "1h 42m",
+        "formattedRuntime": "01:42",
+        "duration": 6120,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/toy-story-5/related"
+      }
+    },
+    {
+      "id": "war",
+      "title": "WAR",
+      "summary": "An anthology series set in the elite world of London law following two rival firms as they face off in a different headline-making legal battle each season.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/628aa55f5926bf50e11bcc00b54edd91c18eaf6d-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/d63f23b7837bfee8870a597fed48771f5b4edf62-4299x989.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ee30a52aeff319f4bab2e22f5ee1c1311a0a90ed-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/406c9346acba8ed714f4ad862b2c440fe09a8f3d-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/628aa55f5926bf50e11bcc00b54edd91c18eaf6d-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ee30a52aeff319f4bab2e22f5ee1c1311a0a90ed-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/406c9346acba8ed714f4ad862b2c440fe09a8f3d-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/d63f23b7837bfee8870a597fed48771f5b4edf62-4299x989.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "war",
+        "contentType": "TV Show",
+        "cta": "New",
+        "tag": "TV Show",
+        "genre": "Drama",
+        "genres": "Drama",
+        "year": "2026",
+        "rating": "15",
+        "imdb": "",
+        "features": "",
+        "meta": "Drama  ·  2026  ·  1 Season",
+        "runtime": "1 Season",
+        "formattedRuntime": "",
+        "seasons": "1",
+        "episodes": "8",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/war/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/war/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/war/related"
+      }
+    }
+  ]
+}

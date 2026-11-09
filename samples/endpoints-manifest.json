@@ -1,0 +1,118 @@
+{
+  "endpoints": {
+    "https://base-feeds.vercel.app/feeds/collections": {
+      "name": "Collections (list)",
+      "method": "get",
+      "mime_type": "application/vnd+applicaster.pipes2+json",
+      "context_obj": []
+    },
+    "https://base-feeds.vercel.app/feeds/collections/{{collection}}": {
+      "name": "Collection by name (image-hero, video-hero, most-popular, rail)",
+      "method": "get",
+      "mime_type": "application/vnd+applicaster.pipes2+json",
+      "context_obj": [],
+      "modifiers": [
+        {
+          "key": "limit",
+          "type": "number",
+          "label": "Item limit",
+          "required": false
+        }
+      ]
+    },
+    "https://base-feeds.vercel.app/feeds/titles": {
+      "name": "Titles",
+      "method": "get",
+      "mime_type": "application/vnd+applicaster.pipes2+json",
+      "context_obj": [],
+      "modifiers": [
+        {
+          "key": "kind",
+          "type": "select",
+          "label": "Type",
+          "options": [
+            {
+              "label": "All",
+              "value": ""
+            },
+            {
+              "label": "Movies",
+              "value": "movie"
+            },
+            {
+              "label": "TV Shows",
+              "value": "series"
+            }
+          ],
+          "required": false
+        },
+        {
+          "key": "genre",
+          "type": "text",
+          "label": "Genre",
+          "required": false
+        },
+        {
+          "key": "limit",
+          "type": "number",
+          "label": "Item limit",
+          "required": false
+        }
+      ]
+    },
+    "https://base-feeds.vercel.app/feeds/titles/{{slug}}": {
+      "name": "Title by id (one entry, for a detail hero)",
+      "method": "get",
+      "mime_type": "application/vnd+applicaster.pipes2+json",
+      "context_obj": []
+    },
+    "https://base-feeds.vercel.app/feeds/titles/{{slug}}/related": {
+      "name": "More like this",
+      "method": "get",
+      "mime_type": "application/vnd+applicaster.pipes2+json",
+      "context_obj": [],
+      "modifiers": [
+        {
+          "key": "limit",
+          "type": "number",
+          "label": "Item limit",
+          "required": false
+        }
+      ]
+    },
+    "https://base-feeds.vercel.app/feeds/shows/{{slug}}/seasons": {
+      "name": "Show seasons (one entry per season, linking to its episodes)",
+      "method": "get",
+      "mime_type": "application/vnd+applicaster.pipes2+json",
+      "context_obj": []
+    },
+    "https://base-feeds.vercel.app/feeds/shows/{{slug}}/seasons/{{season}}": {
+      "name": "Season episodes",
+      "method": "get",
+      "mime_type": "application/vnd+applicaster.pipes2+json",
+      "context_obj": [],
+      "modifiers": [
+        {
+          "key": "limit",
+          "type": "number",
+          "label": "Item limit",
+          "required": false
+        }
+      ]
+    },
+    "https://base-feeds.vercel.app/feeds/shows/{{slug}}/episodes": {
+      "name": "All episodes of a show",
+      "method": "get",
+      "mime_type": "application/vnd+applicaster.pipes2+json",
+      "context_obj": [],
+      "modifiers": [
+        {
+          "key": "limit",
+          "type": "number",
+          "label": "Item limit",
+          "required": false
+        }
+      ]
+    }
+  }
+}

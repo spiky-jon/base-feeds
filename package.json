@@ -1,0 +1,8 @@
+{
+  "name": "base-feeds",
+  "private": true,
+  "type": "module",
+  "description": "Zapp Pipes2 feeds from the App Transitions Sanity dataset",
+  "scripts": { "samples": "node scripts/samples.mjs", "test": "node scripts/test.mjs" },
+  "engines": { "node": ">=18" }
+}

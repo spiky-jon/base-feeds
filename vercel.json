@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/feeds/:path*", "destination": "/api/index?path=feeds/:path*" },
+    { "source": "/v1/:path*", "destination": "/api/index?path=v1/:path*" }
+  ]
+}

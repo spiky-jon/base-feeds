@@ -1,0 +1,303 @@
+{
+  "id": "stranger-things-seasons",
+  "title": "Stranger Things",
+  "type": {
+    "value": "feed"
+  },
+  "extensions": {
+    "show": "Stranger Things",
+    "seasons": "5"
+  },
+  "entry": [
+    {
+      "id": "stranger-things-s1",
+      "title": "Season 1",
+      "summary": "8 episodes",
+      "type": {
+        "value": "feed"
+      },
+      "link": {
+        "href": "https://base-feeds.vercel.app/feeds/shows/stranger-things/seasons/1",
+        "type": "feed"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "1",
+        "episodes": "8",
+        "meta": "8 Episodes"
+      }
+    },
+    {
+      "id": "stranger-things-s2",
+      "title": "Season 2",
+      "summary": "9 episodes",
+      "type": {
+        "value": "feed"
+      },
+      "link": {
+        "href": "https://base-feeds.vercel.app/feeds/shows/stranger-things/seasons/2",
+        "type": "feed"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "2",
+        "episodes": "9",
+        "meta": "9 Episodes"
+      }
+    },
+    {
+      "id": "stranger-things-s3",
+      "title": "Season 3",
+      "summary": "8 episodes",
+      "type": {
+        "value": "feed"
+      },
+      "link": {
+        "href": "https://base-feeds.vercel.app/feeds/shows/stranger-things/seasons/3",
+        "type": "feed"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "3",
+        "episodes": "8",
+        "meta": "8 Episodes"
+      }
+    },
+    {
+      "id": "stranger-things-s4",
+      "title": "Season 4",
+      "summary": "9 episodes",
+      "type": {
+        "value": "feed"
+      },
+      "link": {
+        "href": "https://base-feeds.vercel.app/feeds/shows/stranger-things/seasons/4",
+        "type": "feed"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "4",
+        "episodes": "9",
+        "meta": "9 Episodes"
+      }
+    },
+    {
+      "id": "stranger-things-s5",
+      "title": "Season 5",
+      "summary": "8 episodes",
+      "type": {
+        "value": "feed"
+      },
+      "link": {
+        "href": "https://base-feeds.vercel.app/feeds/shows/stranger-things/seasons/5",
+        "type": "feed"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "5",
+        "episodes": "8",
+        "meta": "8 Episodes"
+      }
+    }
+  ]
+}

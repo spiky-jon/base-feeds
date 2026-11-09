@@ -1,0 +1,485 @@
+{
+  "id": "stranger-things-s1",
+  "title": "Season 1",
+  "type": {
+    "value": "feed"
+  },
+  "extensions": {
+    "show": "Stranger Things",
+    "season": "1"
+  },
+  "entry": [
+    {
+      "id": "stranger-things-s1e1",
+      "title": "Chapter One: The Vanishing of Will Byers",
+      "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "1",
+        "episode": "1",
+        "episode-name": "Chapter One: The Vanishing of Will Byers",
+        "episode-number": "S1:E1",
+        "runtime": "48m",
+        "formattedRuntime": "00:48",
+        "duration": 2880,
+        "meta": "S1:E1  ·  48m"
+      }
+    },
+    {
+      "id": "stranger-things-s1e2",
+      "title": "Chapter Two: The Weirdo on Maple Street",
+      "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "1",
+        "episode": "2",
+        "episode-name": "Chapter Two: The Weirdo on Maple Street",
+        "episode-number": "S1:E2",
+        "runtime": "55m",
+        "formattedRuntime": "00:55",
+        "duration": 3300,
+        "meta": "S1:E2  ·  55m"
+      }
+    },
+    {
+      "id": "stranger-things-s1e3",
+      "title": "Chapter Three: Holly, Jolly",
+      "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "1",
+        "episode": "3",
+        "episode-name": "Chapter Three: Holly, Jolly",
+        "episode-number": "S1:E3",
+        "runtime": "51m",
+        "formattedRuntime": "00:51",
+        "duration": 3060,
+        "meta": "S1:E3  ·  51m"
+      }
+    },
+    {
+      "id": "stranger-things-s1e4",
+      "title": "Chapter Four: The Body",
+      "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "1",
+        "episode": "4",
+        "episode-name": "Chapter Four: The Body",
+        "episode-number": "S1:E4",
+        "runtime": "50m",
+        "formattedRuntime": "00:50",
+        "duration": 3000,
+        "meta": "S1:E4  ·  50m"
+      }
+    },
+    {
+      "id": "stranger-things-s1e5",
+      "title": "Chapter Five: The Flea and the Acrobat",
+      "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "1",
+        "episode": "5",
+        "episode-name": "Chapter Five: The Flea and the Acrobat",
+        "episode-number": "S1:E5",
+        "runtime": "52m",
+        "formattedRuntime": "00:52",
+        "duration": 3120,
+        "meta": "S1:E5  ·  52m"
+      }
+    },
+    {
+      "id": "stranger-things-s1e6",
+      "title": "Chapter Six: The Monster",
+      "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "1",
+        "episode": "6",
+        "episode-name": "Chapter Six: The Monster",
+        "episode-number": "S1:E6",
+        "runtime": "46m",
+        "formattedRuntime": "00:46",
+        "duration": 2760,
+        "meta": "S1:E6  ·  46m"
+      }
+    },
+    {
+      "id": "stranger-things-s1e7",
+      "title": "Chapter Seven: The Bathtub",
+      "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "1",
+        "episode": "7",
+        "episode-name": "Chapter Seven: The Bathtub",
+        "episode-number": "S1:E7",
+        "runtime": "42m",
+        "formattedRuntime": "00:42",
+        "duration": 2520,
+        "meta": "S1:E7  ·  42m"
+      }
+    },
+    {
+      "id": "stranger-things-s1e8",
+      "title": "Chapter Eight: The Upside Down",
+      "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "type": {
+        "value": "video"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dbf266a14164e536bde653ee184c75abc03516ef-3840x2160.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/12b276d1b60597ef74974b9d150d1c32c94939da-3781x1406.png?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "show": "Stranger Things",
+        "slug": "stranger-things",
+        "season": "1",
+        "episode": "8",
+        "episode-name": "Chapter Eight: The Upside Down",
+        "episode-number": "S1:E8",
+        "runtime": "54m",
+        "formattedRuntime": "00:54",
+        "duration": 3240,
+        "meta": "S1:E8  ·  54m"
+      }
+    }
+  ]
+}

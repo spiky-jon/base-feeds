@@ -1,0 +1,281 @@
+{
+  "id": "video-hero",
+  "title": "Video hero",
+  "type": {
+    "value": "feed"
+  },
+  "extensions": {
+    "layout": "videoHero"
+  },
+  "entry": [
+    {
+      "id": "project-hail-mary",
+      "title": "Project Hail Mary",
+      "summary": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/c87b6ffaef5c897ac73e5806a88bab40b0e1a519-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/76a5958fa5d89a4736c0bdaad0375007ff43d6ee-1592x694.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/71c744509addc398a8c73b5a8a3cb14c45b5f582-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/59e8f1c95a98c415326b0f560ee1c8cb6c0059d9-3000x1688.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/c87b6ffaef5c897ac73e5806a88bab40b0e1a519-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/71c744509addc398a8c73b5a8a3cb14c45b5f582-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/59e8f1c95a98c415326b0f560ee1c8cb6c0059d9-3000x1688.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/76a5958fa5d89a4736c0bdaad0375007ff43d6ee-1592x694.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "project-hail-mary",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Sci-fi",
+        "genres": "Sci-fi, Adventure",
+        "year": "2026",
+        "rating": "12",
+        "imdb": "7.4",
+        "features": "4k,cc",
+        "meta": "Sci-fi  ·  2026  ·  2h 37m",
+        "runtime": "2h 37m",
+        "formattedRuntime": "02:37",
+        "duration": 9420,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/project-hail-mary/related"
+      }
+    },
+    {
+      "id": "monster",
+      "title": "Monster: The Lizzie Borden Story",
+      "summary": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "type": {
+        "value": "tv-show"
+      },
+      "content": {
+        "src": "https://cdn.sanity.io/files/9fphvkc2/production/7ca174e3d3d7ca438d96586824a749e65d60eafe.mp4",
+        "type": "video/mp4"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9b4d4921f1922d709c72ab8391fcdb415e3e0ed6-2560x1440.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dce340e123538b2cafdfc4bbda5d7c8dda928d69-103x24.svg?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/f4c1d5c61c58e9a23f74cac1fbc3bee3b149fbbe-1482x2222.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0fb8a1618341df2172a017e7622beb03d0fe3189-1920x1080.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9b4d4921f1922d709c72ab8391fcdb415e3e0ed6-2560x1440.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/f4c1d5c61c58e9a23f74cac1fbc3bee3b149fbbe-1482x2222.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0fb8a1618341df2172a017e7622beb03d0fe3189-1920x1080.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dce340e123538b2cafdfc4bbda5d7c8dda928d69-103x24.svg?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "monster",
+        "contentType": "TV Show",
+        "cta": "Just Added",
+        "tag": "TV Show",
+        "genre": "Horror",
+        "genres": "Horror",
+        "year": "2026",
+        "rating": "18",
+        "imdb": "7.2",
+        "features": "4k,cc,ad",
+        "meta": "Horror  ·  2026  ·  2 Seasons",
+        "runtime": "2 Seasons",
+        "formattedRuntime": "",
+        "seasons": "2",
+        "episodes": "16",
+        "preview_playback": "https://cdn.sanity.io/files/9fphvkc2/production/7d7e9d21816f10748bea53d668fdb83441f9105e.mp4",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/monster/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/monster/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/monster/related"
+      }
+    },
+    {
+      "id": "end-of-oak-street",
+      "title": "The End of Oak Street",
+      "summary": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/3222874a655e5562bac0815a455140e2c6dfe949-4320x3240.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9f0ce2a98492d9baf6151d7aeba3ca634f33e420-1161x854.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/b2cfe6b7b6bac745db800c81075c48b1d30bb143-1000x1500.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0790cd0ef933bdcd46a46bb4e2510d37aa2b69a8-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/3222874a655e5562bac0815a455140e2c6dfe949-4320x3240.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/b2cfe6b7b6bac745db800c81075c48b1d30bb143-1000x1500.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0790cd0ef933bdcd46a46bb4e2510d37aa2b69a8-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9f0ce2a98492d9baf6151d7aeba3ca634f33e420-1161x854.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "end-of-oak-street",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Sci-Fi",
+        "genres": "Sci-Fi, Thriller",
+        "year": "2026",
+        "rating": "PG",
+        "imdb": "6.8",
+        "features": "4k,cc,ad",
+        "meta": "Sci-Fi  ·  2026  ·  1h 40m",
+        "runtime": "1h 40m",
+        "formattedRuntime": "01:40",
+        "duration": 6000,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/end-of-oak-street/related"
+      }
+    },
+    {
+      "id": "idiots",
+      "title": "Idiots",
+      "summary": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
+      "type": {
+        "value": "movie"
+      },
+      "content": {
+        "src": "https://cdn.sanity.io/files/9fphvkc2/production/de0ef1eaf80c86f66148fb5f623c15bf3a88a7dc.mp4",
+        "type": "video/mp4"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/5f6d9fa941769bb59264ec78bbca9bcba7cebafa-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/4d2be6e3160db4d6a5fac5117bbc9c824552767d-2693x1241.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/1aeb7e32fa41081caaef08c8fe1091ea42fdede7-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/d11556dd2e421ac4e620078c9e3337e1c7a0eef8-2560x1440.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/5f6d9fa941769bb59264ec78bbca9bcba7cebafa-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/1aeb7e32fa41081caaef08c8fe1091ea42fdede7-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/d11556dd2e421ac4e620078c9e3337e1c7a0eef8-2560x1440.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/4d2be6e3160db4d6a5fac5117bbc9c824552767d-2693x1241.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "idiots",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Comedy",
+        "genres": "Comedy, Crime",
+        "year": "2026",
+        "rating": "18",
+        "imdb": "6.4",
+        "features": "4k",
+        "meta": "Comedy  ·  2026  ·  1h 40m",
+        "runtime": "1h 40m",
+        "formattedRuntime": "01:40",
+        "duration": 6000,
+        "preview_playback": "https://cdn.sanity.io/files/9fphvkc2/production/de0ef1eaf80c86f66148fb5f623c15bf3a88a7dc.mp4",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/idiots/related"
+      }
+    }
+  ]
+}
