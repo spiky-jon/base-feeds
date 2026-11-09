@@ -13,6 +13,26 @@
       "context_obj": [],
       "modifiers": [
         {
+          "key": "kind",
+          "type": "select",
+          "label": "Type",
+          "options": [
+            {
+              "label": "All",
+              "value": ""
+            },
+            {
+              "label": "Movies",
+              "value": "movie"
+            },
+            {
+              "label": "TV Shows",
+              "value": "series"
+            }
+          ],
+          "required": false
+        },
+        {
           "key": "limit",
           "type": "number",
           "label": "Item limit",
@@ -72,6 +92,26 @@
       "mime_type": "application/vnd+applicaster.pipes2+json",
       "context_obj": [],
       "modifiers": [
+        {
+          "key": "kind",
+          "type": "select",
+          "label": "Type",
+          "options": [
+            {
+              "label": "All",
+              "value": ""
+            },
+            {
+              "label": "Movies",
+              "value": "movie"
+            },
+            {
+              "label": "TV Shows",
+              "value": "series"
+            }
+          ],
+          "required": false
+        },
         {
           "key": "limit",
           "type": "number",

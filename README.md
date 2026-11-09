@@ -17,7 +17,7 @@ Edit a title, season or episode in Sanity Studio and the feeds follow within a m
 | `/feeds/shows/:slug/episodes` | Every episode of the show, in order |
 | `/v1/endpoints-manifest` | The endpoints manifest for Zapp Studio (Data Sources → Endpoints) |
 
-Every route takes `?limit=`. Series have as many season and episode entries as Sanity holds (Stranger Things: 5 seasons, 42 episodes).
+Every route takes `?limit=`. Lists of titles (all titles, collections, related) also take `?kind=series` (or `tv-show`) / `?kind=movie` and `?genre=`, e.g. `/feeds/collections/rail?kind=series` for the Rail's TV shows only. Series have as many season and episode entries as Sanity holds (Stranger Things: 5 seasons, 42 episodes).
 
 ## Entries
 
