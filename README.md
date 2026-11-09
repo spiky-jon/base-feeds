@@ -26,7 +26,7 @@ Shaped like the platform's sample feeds (`entry`, `media_group`, `extensions`, `
 - **Type:** movies are `movie` and series `tv-show`, so they open the layout's Movie and TV Show screens. Seasons are
   `feed` entries with a `link` to their episode feed. Episodes are `video`.
 - **Images:** `image_base` = key art (16:9), `thumb_1` = logo, `thumb_2` = poster (2:3), `thumb_3` = still (16:9),
-  plus named keys `key_art`, `poster`, `still`, `logo` for cells that pick an image by key. Episodes use the show's
+  plus named keys `key_art`, `poster`, `poster_16x9` (landscape poster with the title treatment), `still`, `logo` for cells that pick an image by key. Episodes use the show's
   still (Sanity has no episode images yet). URLs ask Sanity's CDN for a sensible width and modern format.
 - **Extensions** (match the cells' data keys):
   - titles: `cta` (badge, or "New" for this year's titles), `meta` ("Drama · 2023 · 2 Seasons" / "Sci-fi · 2026 · 2h 37m"),
