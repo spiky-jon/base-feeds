@@ -11,7 +11,7 @@
       "title": "All Shows",
       "summary": "7 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/all-shows",
@@ -71,7 +71,7 @@
       "title": "Audio Described",
       "summary": "4 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/audio-described",
@@ -131,7 +131,7 @@
       "title": "Comedy",
       "summary": "4 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/comedy",
@@ -191,7 +191,7 @@
       "title": "Documentaries",
       "summary": "0 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/documentaries",
@@ -219,7 +219,7 @@
       "title": "Drama",
       "summary": "5 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/drama",
@@ -279,7 +279,7 @@
       "title": "Film",
       "summary": "10 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/film",
@@ -339,7 +339,7 @@
       "title": "Lifestyle",
       "summary": "0 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/lifestyle",
@@ -367,7 +367,7 @@
       "title": "News & Current Affairs",
       "summary": "0 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/news-current-affairs",
@@ -395,7 +395,7 @@
       "title": "Sport",
       "summary": "0 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/sport",
@@ -423,7 +423,7 @@
       "title": "World Drama",
       "summary": "0 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/world-drama",
@@ -451,7 +451,7 @@
       "title": "On TV: Yesterday",
       "summary": "0 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/on-tv-yesterday",
@@ -479,7 +479,7 @@
       "title": "Sci-Fi",
       "summary": "5 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/sci-fi",
@@ -539,7 +539,7 @@
       "title": "Animation",
       "summary": "4 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/animation",
@@ -599,7 +599,7 @@
       "title": "Horror",
       "summary": "3 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/horror",
@@ -659,7 +659,7 @@
       "title": "Crime & Thriller",
       "summary": "3 titles",
       "type": {
-        "value": "feed"
+        "value": "category"
       },
       "link": {
         "href": "https://base-feeds.vercel.app/feeds/categories/crime-thriller",

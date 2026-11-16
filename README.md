@@ -36,15 +36,16 @@ title with a genre and it joins that category within a minute):
 | Documentaries, Lifestyle, News & Current Affairs, Sport, World Drama | `documentaries`, `lifestyle`, `news-current-affairs`, `sport`, `world-drama` | that genre (no titles tagged yet) |
 | On TV: Yesterday | `on-tv-yesterday` | titles tagged with that genre, until Sanity has air dates |
 
-In Zapp: point the Search screen's List at `/feeds/categories`; each entry is a `feed` with a `link`, so tapping one
-opens the screen mapped to feeds (the Category screen), which loads the tapped entry's link. The navigation bar shows
-the entry's title (the category name).
+In Zapp: point the Search screen's List at `/feeds/categories`. Each entry has the type `category`, so map that type
+to the Category screen in the layout; tapping a category opens it, and its components load the tapped entry's feed
+(`link.href`, also in `extensions.feed_url`). The navigation bar shows the entry's title (the category name).
 
 ## Entries
 
 Shaped like the platform's sample feeds (`entry`, `media_group`, `extensions`, `type`):
 
-- **Type:** movies are `movie` and series `tv-show`, so they open the layout's Movie and TV Show screens. Seasons are
+- **Type:** movies are `movie` and series `tv-show`, so they open the layout's Movie and TV Show screens. Categories are
+  `category`, for the Category screen. Seasons are
   `feed` entries with a `link` to their episode feed. Episodes are `video`.
 - **Images:** `image_base` = key art (16:9), `thumb_1` = logo, `thumb_2` = poster (2:3), `thumb_3` = still (16:9),
   plus named keys `key_art`, `poster`, `poster_16x9` (landscape poster with the title treatment), `still`, `logo` for cells that pick an image by key. Episodes use the show's

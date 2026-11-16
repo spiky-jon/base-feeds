@@ -21,7 +21,7 @@ for (const c of data.collections) check(c.name, route(`/feeds/collections/${c.na
 // categories: the list links to every category, each category feed holds only matching titles
 const { CATEGORIES } = await import('../lib/feeds.mjs');
 const list = route('/feeds/categories', {}, data, ctx);
-if (!list || list.entry.length !== CATEGORIES.length || list.entry.some(e => !e.link?.href?.endsWith(`/feeds/categories/${e.id}`))) { console.log('BAD CATEGORIES LIST'); bad++; }
+if (!list || list.entry.length !== CATEGORIES.length || list.entry.some(e => e.type?.value !== 'category' || !e.link?.href?.endsWith(`/feeds/categories/${e.id}`))) { console.log('BAD CATEGORIES LIST'); bad++; }
 for (const c of CATEGORIES) {
   const f = route(`/feeds/categories/${c.slug}`, {}, data, ctx);
   if (!f || f.title !== c.name) { console.log('BAD CATEGORY', c.slug); bad++; continue; }
