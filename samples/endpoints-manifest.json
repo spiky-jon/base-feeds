@@ -1,5 +1,45 @@
 {
   "endpoints": {
+    "https://base-feeds.vercel.app/feeds/categories": {
+      "name": "Categories (list, each linking to its titles)",
+      "method": "get",
+      "mime_type": "application/vnd+applicaster.pipes2+json",
+      "context_obj": []
+    },
+    "https://base-feeds.vercel.app/feeds/categories/{{category}}": {
+      "name": "Category by name (all-shows, drama, film…)",
+      "method": "get",
+      "mime_type": "application/vnd+applicaster.pipes2+json",
+      "context_obj": [],
+      "modifiers": [
+        {
+          "key": "kind",
+          "type": "select",
+          "label": "Type",
+          "options": [
+            {
+              "label": "All",
+              "value": ""
+            },
+            {
+              "label": "Movies",
+              "value": "movie"
+            },
+            {
+              "label": "TV Shows",
+              "value": "series"
+            }
+          ],
+          "required": false
+        },
+        {
+          "key": "limit",
+          "type": "number",
+          "label": "Item limit",
+          "required": false
+        }
+      ]
+    },
     "https://base-feeds.vercel.app/feeds/collections": {
       "name": "Collections (list)",
       "method": "get",

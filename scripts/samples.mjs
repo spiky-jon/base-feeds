@@ -4,7 +4,7 @@ import { route, manifest } from '../lib/feeds.mjs';
 const data = JSON.parse(readFileSync(new URL('../fixtures/sanity.json', import.meta.url)));
 const base = process.argv[2] || 'https://base-feeds.vercel.app';
 const out = new URL('../samples/', import.meta.url); mkdirSync(out, { recursive: true });
-const paths = ['/feeds/collections', ...data.collections.map(c => `/feeds/collections/${c.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`),
+const paths = ['/feeds/categories', '/feeds/categories/all-shows', '/feeds/categories/drama', '/feeds/categories/audio-described', '/feeds/collections', ...data.collections.map(c => `/feeds/collections/${c.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`),
   '/feeds/titles', '/feeds/titles?kind=movie', '/feeds/titles?kind=series', '/feeds/titles/project-hail-mary', '/feeds/titles/hijack/related',
   '/feeds/shows/stranger-things/seasons', '/feeds/shows/stranger-things/seasons/1', '/feeds/shows/hijack/seasons', '/feeds/shows/hijack/seasons/2', '/feeds/shows/east-of-eden/episodes'];
 for (const p of paths) {

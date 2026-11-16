@@ -49,6 +49,10 @@
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
             },
             {
+              "key": "poster_16x9",
+              "src": null
+            },
+            {
               "key": "still",
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
             },
@@ -105,6 +109,10 @@
             {
               "key": "poster",
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "poster_16x9",
+              "src": null
             },
             {
               "key": "still",
@@ -165,6 +173,10 @@
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
             },
             {
+              "key": "poster_16x9",
+              "src": null
+            },
+            {
               "key": "still",
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
             },
@@ -223,6 +235,10 @@
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
             },
             {
+              "key": "poster_16x9",
+              "src": null
+            },
+            {
               "key": "still",
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/0ad292cf554bf3c5745455ba554117f7c67499cf-1920x1080.jpg?w=1600&auto=format"
             },
@@ -279,6 +295,10 @@
             {
               "key": "poster",
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/ec02ba7fa17f241250b86e0cc8a3cd9b4384e4f7-1000x1500.jpg?w=1000&auto=format"
+            },
+            {
+              "key": "poster_16x9",
+              "src": null
             },
             {
               "key": "still",

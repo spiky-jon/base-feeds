@@ -7,6 +7,8 @@ Edit a title, season or episode in Sanity Studio and the feeds follow within a m
 
 | Path | What it returns |
 |---|---|
+| `/feeds/categories` | One entry per browse category (the Search screen's list), each linking to its feed |
+| `/feeds/categories/:name` | A category's titles, e.g. `/feeds/categories/all-shows`, `/feeds/categories/drama` |
 | `/feeds/collections` | One entry per Sanity collection, each linking to its feed |
 | `/feeds/collections/:name` | A collection's titles: `image-hero`, `video-hero`, `most-popular`, `rail` |
 | `/feeds/titles?kind=movie\|series&genre=Drama&limit=10` | All titles, filtered |
@@ -18,6 +20,25 @@ Edit a title, season or episode in Sanity Studio and the feeds follow within a m
 | `/v1/endpoints-manifest` | The endpoints manifest for Zapp Studio (Data Sources → Endpoints) |
 
 Every route takes `?limit=`. Lists of titles (all titles, collections, related) also take `?kind=series` (or `tv-show`) / `?kind=movie` and `?genre=`, e.g. `/feeds/collections/rail?kind=series` for the Rail's TV shows only. Series have as many season and episode entries as Sanity holds (Stranger Things: 5 seasons, 42 episodes).
+
+## Categories
+
+Defined in `CATEGORIES` in `lib/feeds.mjs`; each picks titles by kind, genre or feature, so they follow Sanity (tag a
+title with a genre and it joins that category within a minute):
+
+| Category | Feed | Picks |
+|---|---|---|
+| All Shows | `all-shows` | series |
+| Audio Described | `audio-described` | titles with the `ad` feature |
+| Comedy, Drama, Sci-Fi, Animation, Horror | `comedy`, `drama`, `sci-fi`, `animation`, `horror` | that genre |
+| Film | `film` | movies |
+| Crime & Thriller | `crime-thriller` | Crime or Thriller |
+| Documentaries, Lifestyle, News & Current Affairs, Sport, World Drama | `documentaries`, `lifestyle`, `news-current-affairs`, `sport`, `world-drama` | that genre (no titles tagged yet) |
+| On TV: Yesterday | `on-tv-yesterday` | titles tagged with that genre, until Sanity has air dates |
+
+In Zapp: point the Search screen's List at `/feeds/categories`; each entry is a `feed` with a `link`, so tapping one
+opens the screen mapped to feeds (the Category screen), which loads the tapped entry's link. The navigation bar shows
+the entry's title (the category name).
 
 ## Entries
 

@@ -18,5 +18,19 @@ for (const t of data.titles) {
   }
 }
 for (const c of data.collections) check(c.name, route(`/feeds/collections/${c.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`, {}, data, ctx));
+// categories: the list links to every category, each category feed holds only matching titles
+const { CATEGORIES } = await import('../lib/feeds.mjs');
+const list = route('/feeds/categories', {}, data, ctx);
+if (!list || list.entry.length !== CATEGORIES.length || list.entry.some(e => !e.link?.href?.endsWith(`/feeds/categories/${e.id}`))) { console.log('BAD CATEGORIES LIST'); bad++; }
+for (const c of CATEGORIES) {
+  const f = route(`/feeds/categories/${c.slug}`, {}, data, ctx);
+  if (!f || f.title !== c.name) { console.log('BAD CATEGORY', c.slug); bad++; continue; }
+  check(c.name, f);
+  const bySlug = new Map(data.titles.map(t => [t.slug, t]));
+  for (const e of f.entry) { const t = bySlug.get(e.id);
+    const ok = (!c.kind || t.kind === c.kind) && (!c.feature || (t.features || []).includes(c.feature)) && (!c.genres || (t.genres || []).some(g => c.genres.some(x => x.toLowerCase() === g.toLowerCase())));
+    if (!ok) { console.log('WRONG TITLE IN', c.slug, e.id); bad++; } }
+}
+if (route('/feeds/categories/nope', {}, data, ctx) !== null) { console.log('MISSING CATEGORY SHOULD 404'); bad++; }
 console.log(bad ? `${bad} problems` : `OK: ${n} entries across every title, show, season and collection feed`);
 process.exit(bad ? 1 : 0);

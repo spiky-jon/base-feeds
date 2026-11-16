@@ -44,6 +44,10 @@
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/71c744509addc398a8c73b5a8a3cb14c45b5f582-2000x3000.webp?w=1000&auto=format"
             },
             {
+              "key": "poster_16x9",
+              "src": null
+            },
+            {
               "key": "still",
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/59e8f1c95a98c415326b0f560ee1c8cb6c0059d9-3000x1688.webp?w=1600&auto=format"
             },
@@ -110,6 +114,10 @@
             {
               "key": "poster",
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/f4c1d5c61c58e9a23f74cac1fbc3bee3b149fbbe-1482x2222.webp?w=1000&auto=format"
+            },
+            {
+              "key": "poster_16x9",
+              "src": null
             },
             {
               "key": "still",
@@ -180,6 +188,10 @@
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/b2cfe6b7b6bac745db800c81075c48b1d30bb143-1000x1500.webp?w=1000&auto=format"
             },
             {
+              "key": "poster_16x9",
+              "src": null
+            },
+            {
               "key": "still",
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/0790cd0ef933bdcd46a46bb4e2510d37aa2b69a8-3840x2160.webp?w=1600&auto=format"
             },
@@ -246,6 +258,10 @@
             {
               "key": "poster",
               "src": "https://cdn.sanity.io/images/9fphvkc2/production/1aeb7e32fa41081caaef08c8fe1091ea42fdede7-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "poster_16x9",
+              "src": null
             },
             {
               "key": "still",

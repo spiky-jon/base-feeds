@@ -1,0 +1,296 @@
+{
+  "id": "audio-described",
+  "title": "Audio Described",
+  "type": {
+    "value": "feed"
+  },
+  "extensions": {
+    "category": "Audio Described",
+    "count": "4"
+  },
+  "entry": [
+    {
+      "id": "digger",
+      "title": "Digger",
+      "summary": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/99c379eb928e2b3d452bb8d164a1d935a70c75b2-3237x1821.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/629c817e71459eeff9117a9f2d469df8e89c2e68-815x188.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/b5f2b9c537116feca1960992ecd3e3d9a622475d-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/647e834a8f957afbec38bf164d1a88027d49fcaf-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/99c379eb928e2b3d452bb8d164a1d935a70c75b2-3237x1821.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/b5f2b9c537116feca1960992ecd3e3d9a622475d-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "poster_16x9",
+              "src": null
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/647e834a8f957afbec38bf164d1a88027d49fcaf-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/629c817e71459eeff9117a9f2d469df8e89c2e68-815x188.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "digger",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Comedy",
+        "genres": "Comedy, Drama",
+        "year": "2026",
+        "rating": "12A",
+        "imdb": "7",
+        "features": "4k,cc,ad",
+        "meta": "Comedy  ·  2026  ·  2h 9m",
+        "runtime": "2h 9m",
+        "formattedRuntime": "02:09",
+        "duration": 7740,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/digger/related"
+      }
+    },
+    {
+      "id": "hijack",
+      "title": "Hijack",
+      "summary": "Expert negotiator Sam Nelson is in for the ride of his life - and so is everyone on board with him - after a group of hijackers take control.",
+      "type": {
+        "value": "tv-show"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/222e6b39328ed4598f81d0f900e726fae311b99e-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/8b0bb39c8ce54ddb06a9f6fc1c11a3e0414ae919-2000x3000.webp?w=1000&auto=format"
+            },
+            {
+              "key": "poster_16x9",
+              "src": null
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/61eb0f5954cb7e937df14666a41cb66b533bccc5-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/84845a657a0cfc28152d6a1a7073eb94b151a103-2401x486.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "hijack",
+        "contentType": "TV Show",
+        "cta": "",
+        "tag": "TV Show",
+        "genre": "Drama",
+        "genres": "Drama",
+        "year": "2023",
+        "rating": "15",
+        "imdb": "7.8",
+        "features": "4k,cc,ad",
+        "meta": "Drama  ·  2023  ·  2 Seasons",
+        "runtime": "2 Seasons",
+        "formattedRuntime": "",
+        "seasons": "2",
+        "episodes": "15",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/hijack/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/hijack/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/hijack/related"
+      }
+    },
+    {
+      "id": "monster",
+      "title": "Monster: The Lizzie Borden Story",
+      "summary": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "type": {
+        "value": "tv-show"
+      },
+      "content": {
+        "src": "https://cdn.sanity.io/files/9fphvkc2/production/7ca174e3d3d7ca438d96586824a749e65d60eafe.mp4",
+        "type": "video/mp4"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9b4d4921f1922d709c72ab8391fcdb415e3e0ed6-2560x1440.webp?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dce340e123538b2cafdfc4bbda5d7c8dda928d69-103x24.svg?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/f4c1d5c61c58e9a23f74cac1fbc3bee3b149fbbe-1482x2222.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0fb8a1618341df2172a017e7622beb03d0fe3189-1920x1080.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9b4d4921f1922d709c72ab8391fcdb415e3e0ed6-2560x1440.webp?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/f4c1d5c61c58e9a23f74cac1fbc3bee3b149fbbe-1482x2222.webp?w=1000&auto=format"
+            },
+            {
+              "key": "poster_16x9",
+              "src": null
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0fb8a1618341df2172a017e7622beb03d0fe3189-1920x1080.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/dce340e123538b2cafdfc4bbda5d7c8dda928d69-103x24.svg?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "monster",
+        "contentType": "TV Show",
+        "cta": "Just Added",
+        "tag": "TV Show",
+        "genre": "Horror",
+        "genres": "Horror",
+        "year": "2026",
+        "rating": "18",
+        "imdb": "7.2",
+        "features": "4k,cc,ad",
+        "meta": "Horror  ·  2026  ·  2 Seasons",
+        "runtime": "2 Seasons",
+        "formattedRuntime": "",
+        "seasons": "2",
+        "episodes": "16",
+        "preview_playback": "https://cdn.sanity.io/files/9fphvkc2/production/7d7e9d21816f10748bea53d668fdb83441f9105e.mp4",
+        "seasons_feed_url": "https://base-feeds.vercel.app/feeds/shows/monster/seasons",
+        "episodes_feed_url": "https://base-feeds.vercel.app/feeds/shows/monster/episodes",
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/monster/related"
+      }
+    },
+    {
+      "id": "end-of-oak-street",
+      "title": "The End of Oak Street",
+      "summary": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together.",
+      "type": {
+        "value": "movie"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "key": "image_base",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/3222874a655e5562bac0815a455140e2c6dfe949-4320x3240.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "thumb_1",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9f0ce2a98492d9baf6151d7aeba3ca634f33e420-1161x854.webp?w=800&auto=format"
+            },
+            {
+              "key": "thumb_2",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/b2cfe6b7b6bac745db800c81075c48b1d30bb143-1000x1500.webp?w=1000&auto=format"
+            },
+            {
+              "key": "thumb_3",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0790cd0ef933bdcd46a46bb4e2510d37aa2b69a8-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "key_art",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/3222874a655e5562bac0815a455140e2c6dfe949-4320x3240.jpg?w=1600&auto=format"
+            },
+            {
+              "key": "poster",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/b2cfe6b7b6bac745db800c81075c48b1d30bb143-1000x1500.webp?w=1000&auto=format"
+            },
+            {
+              "key": "poster_16x9",
+              "src": null
+            },
+            {
+              "key": "still",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/0790cd0ef933bdcd46a46bb4e2510d37aa2b69a8-3840x2160.webp?w=1600&auto=format"
+            },
+            {
+              "key": "logo",
+              "src": "https://cdn.sanity.io/images/9fphvkc2/production/9f0ce2a98492d9baf6151d7aeba3ca634f33e420-1161x854.webp?w=800&auto=format"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "slug": "end-of-oak-street",
+        "contentType": "Movie",
+        "cta": "New",
+        "tag": "Movie",
+        "genre": "Sci-Fi",
+        "genres": "Sci-Fi, Thriller",
+        "year": "2026",
+        "rating": "PG",
+        "imdb": "6.8",
+        "features": "4k,cc,ad",
+        "meta": "Sci-Fi  ·  2026  ·  1h 40m",
+        "runtime": "1h 40m",
+        "formattedRuntime": "01:40",
+        "duration": 6000,
+        "related_feed_url": "https://base-feeds.vercel.app/feeds/titles/end-of-oak-street/related"
+      }
+    }
+  ]
+}
