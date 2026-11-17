@@ -14,7 +14,7 @@ Edit a title, season or episode in Sanity Studio and the feeds follow within a m
 | `/feeds/titles?kind=movie\|series&genre=Drama&limit=10` | All titles, filtered |
 | `/feeds/titles/:slug` | One title (for a detail screen hero), e.g. `/feeds/titles/project-hail-mary` |
 | `/feeds/titles/:slug/related` | Its "related" titles |
-| `/feeds/shows/:slug/seasons` | One entry per season ("Season 1", "Season 2"…), each linking to its episodes. Made for the Tabs component and its Button Cell |
+| `/feeds/shows/:slug/seasons` | One entry per season ("Season 1", "Season 2"…, type `season`), each linking to its episodes, then a "More Like This" entry (type `more-like-this`) linking to the show's related titles. Made for the Tabs component and its Button Cell |
 | `/feeds/shows/:slug/seasons/:n` | That season's episodes |
 | `/feeds/shows/:slug/episodes` | Every episode of the show, in order |
 | `/v1/endpoints-manifest` | The endpoints manifest for Zapp Studio (Data Sources → Endpoints) |

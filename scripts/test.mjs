@@ -14,6 +14,8 @@ for (const t of data.titles) {
   check(`/feeds/titles/${t.slug}`, route(`/feeds/titles/${t.slug}`, {}, data, ctx));
   if (t.kind === 'series') {
     check(`/feeds/shows/${t.slug}/seasons`, route(`/feeds/shows/${t.slug}/seasons`, {}, data, ctx));
+    { const f = route(`/feeds/shows/${t.slug}/seasons`, {}, data, ctx), last = f.entry[f.entry.length - 1];
+      if (f.entry.slice(0, -1).some(e => e.type?.value !== 'season') || last.type?.value !== 'more-like-this' || last.title !== 'More Like This' || !last.link?.href?.endsWith(`/feeds/titles/${t.slug}/related`)) { console.log('BAD SEASON TYPES', t.slug); bad++; } }
     for (const s of t.seasons) check(`season ${s.number}`, route(`/feeds/shows/${t.slug}/seasons/${s.number}`, {}, data, ctx));
   }
 }
